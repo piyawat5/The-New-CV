@@ -1,0 +1,137 @@
+body{
+  text-align: center;
+  font-size: 180%;
+
+  margin:0;
+
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.cloud1{
+  position:relative;
+  top:70px;
+  left:380px;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 6rem;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+}
+h3{
+  color: #11999E;
+}
+.cloud2{
+ position:absolute  ;
+ left:500px;
+}
+.mountain{
+  margin:auto;
+}
+.profile{
+  width: 50%;
+  margin: 0px auto 0px auto;
+}
+.profile-picture{
+  width: 25%;
+  position: relative;
+  margin-top: 80px;
+}
+hr{
+  border: none;
+  width:20%;
+  border-top: dotted;
+  border-color: #EAF6F6;
+  border-width: 25px;
+  margin-top:100px ;
+  margin-bottom: 100px;
+}
+.skills{
+
+}
+.skill-row{
+  width:50%;
+  margin:80px auto 80px auto;
+  text-align: left;
+  line-height: 1.5;
+
+
+}
+.skill-web-development{
+  width:28%;
+  float: left;
+  margin-right: 50px;
+}
+.skill-maintenance{
+  width:28%;
+  float: right;
+
+}
+.skill-art{
+  width: 28%;
+  float: left;
+  margin-right: 50px;
+}
+.Get-in-touch{
+  width: 70%;
+  margin: auto;
+}
+.handshake{
+  width: 15%;
+}
+.last{
+  background-color: #66BFBF;
+  padding:50px;
+
+}
+
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 50px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link{
+  color: #11999E;
+  font-weight: bold;
+  font-size: 25px;
+  margin: 30px;
+  text-decoration-color: #66BFBF;
+
+}
+
+.the-lastword{
+  margin-bottom: 0;
+  margin-top: 30px;
+  color: white;
+  font-size: 80%;
+
+}
